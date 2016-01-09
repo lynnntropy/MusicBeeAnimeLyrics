@@ -1,0 +1,9 @@
+mb_AnimeLyrics.dll
+AnimeLyricsDownloader.dll
+System.IO.dll
+System.Net.Http.dll
+System.Net.Http.Extensions.dll
+System.Net.Http.Primitives.dll
+System.Net.Http.WebRequest.dll
+System.Runtime.dll
+System.Threading.Tasks.dll

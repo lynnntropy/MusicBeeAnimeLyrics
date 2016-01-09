@@ -1,0 +1,1 @@
+D:\Development\ILMerge.exe /wildcards /allowdup /out:mb_AnimeLyricsOmega.dll mb_AnimeLyrics.dll AnimeLyricsDownloader.dll NSoup.dll Sys*.dll
